@@ -15,7 +15,7 @@ export default function RootLayout({
     <html lang="th">
       <body>
         <header className="siteHeader">
-          <Navbar />
+
         </header>
         {children}
       </body>
